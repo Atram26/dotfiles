@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = martaspilnyk@ukr.net
+	name = Marta Spilnyk
